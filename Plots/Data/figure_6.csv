@@ -1,0 +1,17 @@
+Model,Total Unique,Rate
+CodeLlama_13B,13064,18.03%
+CodeLlama_34B,22665,21.15%
+CodeLlama_34B_Python,14248,20.97%
+CodeLlama_7B,24500,26.12%
+DeepSeek_1B,13316,13.63%
+DeepSeek_33B,9501,16.53%
+Deepseek_6B,17225,16.61%
+GPT_35_Turbo,8417,5.76%
+GPT_4,7367,4.05%
+GPT_4_Turbo,7896,3.59%
+Magicoder_6B,20041,16.60%
+Mistral_7B,8857,20.71%
+Mixtral_7B,8885,16.79%
+Openchat_7B,14532,18.31%
+WizardCoder_33B,6990,14.31%
+WizardCoder_Python_7B,12536,20.69%

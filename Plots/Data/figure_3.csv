@@ -1,0 +1,49 @@
+Model,Rate,Temp
+GPT 3.5,5.49%,0.01
+GPT 3.5,6.09%,0.25
+GPT 3.5,6.09%,0.5
+GPT 3.5,6.14%,0.75
+GPT 3.5,6.26%,1
+GPT 3.5,8.66%,1.25
+GPT 3.5,15.77%,1.5
+GPT 3.5,22.74%,1.75
+GPT 3.5,31.80%,2
+GPT 4 Turbo,3.35%,0.01
+GPT 4 Turbo,3.39%,0.25
+GPT 4 Turbo,3.08%,0.5
+GPT 4 Turbo,3.64%,0.75
+GPT 4 Turbo,3.95%,1
+GPT 4 Turbo,4.26%,1.25
+GPT 4 Turbo,4.76%,1.5
+GPT 4 Turbo,6.45%,1.75
+GPT 4 Turbo,8.94%,2
+CodeLlama,20.71%,0.01
+CodeLlama,19.14%,0.25
+CodeLlama,18.92%,0.5
+CodeLlama,16.29%,0.75
+CodeLlama,15.52%,1
+CodeLlama,15.55%,1.25
+CodeLlama,16.02%,1.5
+CodeLlama,17.55%,1.75
+CodeLlama,19.93%,2
+CodeLlama,27.26%,2.5
+CodeLlama,36.90%,3
+CodeLlama,46.93%,3.5
+CodeLlama,50.10%,4
+CodeLlama,53.30%,4.5
+CodeLlama,59.28%,5
+DeepSeek,14.52%,0.01
+DeepSeek,17.33%,0.25
+DeepSeek,18.08%,0.5
+DeepSeek,16.02%,0.75
+DeepSeek,16.52%,1
+DeepSeek,16.25%,1.25
+DeepSeek,18.61%,1.5
+DeepSeek,16.27%,1.75
+DeepSeek,22.16%,2
+DeepSeek,31.49%,2.5
+DeepSeek,44.29%,3
+DeepSeek,53.13%,3.5
+DeepSeek,58.31%,4
+DeepSeek,62.99%,4.5
+DeepSeek,65.27%,5

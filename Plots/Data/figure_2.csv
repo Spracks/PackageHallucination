@@ -1,0 +1,16 @@
+GPT 4 Turbo,3.35,5.64
+GPT 4,3.78,6.75
+GPT 3.5,5.49,9.59
+DeepSeek 1B,14.07,28.02
+DeepSeek 33B,14.52,17.55
+WizardCoder,14.56,16.55
+DeepSeek 6B,16.14,24.20
+OpenChat,16.43,25.38
+CodeLlama 13B,16.76,28.58
+Mixtral,16.89,23.62
+Magicoder,17.70,29.42
+CodeLlama 34B,20.71,34.40
+Mistral,20.88,27.33
+CodeLlama 7B,26.28,37.80
+WizardCoder 7B Python,21.08,
+CodeLlama 34B Python,22.05,
