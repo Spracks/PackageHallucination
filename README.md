@@ -241,5 +241,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 Questions or collaboration:
-- **Joseph Spracklen** — joseph.spracklen@utsa.edu  
+- **Joseph Spracklen** — joseph.spracklen@my.utsa.edu  
 - Or open an issue on the repository
